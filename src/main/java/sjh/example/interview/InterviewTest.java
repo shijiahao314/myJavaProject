@@ -1,2 +1,5 @@
-package sjh.example.interview;public class InterViewTest {
+package sjh.example.interview;
+
+public class InterviewTest {
+
 }
